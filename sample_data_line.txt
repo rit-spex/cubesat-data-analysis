@@ -1,0 +1,8 @@
+110617.00,04122.33145,N,00831.54761,W,1,129.0,M,38
+Data breakdown:
+1. 110617.00 = 11:06:17 UTC
+2. 04122.33145,N = latitude
+3. 00831.54761,W = longitude
+4. 1 = fix quality (0 = invalid; 1= GPS fix; 2 = DGPS fix; 3 = PPS fix; 4 = Real Time Kinematic; 5 = Float RTK; 6 = estimated (dead reckoning); 7 = Manual input mode; 8 = Simulation mode)
+5. 129.0,M = altitude of 129.0 meters
+6. 38 = reading from particle detector (range of 0-4096)
